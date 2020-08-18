@@ -20,7 +20,7 @@ def loop_message_n_times(string, number)
 end
 
 def output_array(array)
-  counter = 0 
+  counter = 0
 
   while counter < array do
     puts array
